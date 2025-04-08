@@ -34,17 +34,17 @@ php_advanced_test/
 ## Installation
 1. Clone this repository to your XAMPP htdocs folder:
     ```
-    git clone https://github.com/yourusername/php_advanced_test.git
+    git clone https://github.com/yourusername/php_advanced_registration.git
     ```
 
-2. Create a MySQL database named `php_advanced_test`:
+2. Create a MySQL database named `php_advanced_registration`:
     ```sql
-    CREATE DATABASE php_advanced_test;
+    CREATE DATABASE php_advanced_registration;
     ```
 
 3. Create the users table:
     ```sql
-    USE php_advanced_test;
+    USE php_advanced_registration;
 
     CREATE TABLE users (
          id INT AUTO_INCREMENT PRIMARY KEY,
@@ -59,7 +59,7 @@ php_advanced_test/
 
 4. Update database credentials in `registerProcess.php` if necessary
 
-5. Access the application at http://localhost/php_advanced_test/
+5. Access the application at http://localhost/php_advanced_registration/
 
 ## Key Implementation Details
 
