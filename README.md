@@ -23,7 +23,7 @@ This project demonstrates a modern, secure user registration system built with P
 
 ## Project Structure
 ```
-php_advanced_test/
+php_advanced_registration/
 ├── index.php            # Registration form page
 ├── script.js            # Client-side validation and form submission
 ├── ajax.js              # AJAX utility class
@@ -34,7 +34,7 @@ php_advanced_test/
 ## Installation
 1. Clone this repository to your XAMPP htdocs folder:
     ```
-    git clone https://github.com/yourusername/php_advanced_registration.git
+    git clone https://github.com/PasinduOG/php_advanced_registration.git
     ```
 
 2. Create a MySQL database named `php_advanced_registration`:
